@@ -1,3 +1,5 @@
+Will be adding lecture notes in the coming days...
+
 Helpful resources:
 
 - ``Deep Learning'' by Goodfellow, Bengio, Courville
