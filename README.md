@@ -1,4 +1,10 @@
-Will be adding lecture notes in the coming days...
+For today's exercise, visit: https://colab.research.google.com/drive/1RClhxJh30Qs5rt-sS3BznZvOuWeW5CPB?usp=sharing
+
+After class, I'll post a "solved" version in the Lecture 4 folder.
+
+
+Lecture notes will be updated periodically.
+
 
 Helpful resources for reading:
 
