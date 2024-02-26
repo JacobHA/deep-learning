@@ -31,7 +31,7 @@ def plot_images_labels_prediction(images,labels,prediction,idx,num=10):
         idx += 1
     plt.show()
     
-def show_train_history(train_history):
+def show_train_history(train_history, use_log=False):
     fig=plt.gcf()
     fig.set_size_inches(16, 6)
     plt.subplot(121)
@@ -46,6 +46,8 @@ def show_train_history(train_history):
     plt.title("Train History")
     plt.xlabel("Epoch")
     plt.ylabel("Accuracy")
+    if use_log:
+        plt.yscale("log")
     plt.legend(["train", "validation"], loc="upper left")
     plt.subplot(122)
     
@@ -58,5 +60,7 @@ def show_train_history(train_history):
     plt.title("Train History")
     plt.xlabel("Epoch")
     plt.ylabel("Loss")
+    if use_log:
+        plt.yscale("log")
     plt.legend(["train", "validation"], loc="upper left")
     plt.show()
