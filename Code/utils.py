@@ -26,8 +26,8 @@ def plot_images_labels_prediction(images,labels,prediction,idx,num=10):
         if len(prediction) > 0:
             title += ",predict=" + str(prediction[idx])
         ax.set_title(title, fontsize=10)
-        ax.set_xticks([]);
-        ax.set_yticks([]);
+        ax.set_xticks([])
+        ax.set_yticks([])
         idx += 1
     plt.show()
     
