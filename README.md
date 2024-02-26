@@ -20,3 +20,4 @@ And for writing code:
 Some other helpful resources:
 - https://github.com/Atcold/NYU-DLSP20
 - Sandbox demo for training NNs: https://ml-playground.com/#
+- http://d2l.ai
