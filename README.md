@@ -1,4 +1,6 @@
-For today's exercise, visit: https://colab.research.google.com/drive/1RClhxJh30Qs5rt-sS3BznZvOuWeW5CPB?usp=sharing
+From Google, RNN demo: https://colab.research.google.com/github/tensorflow/docs/blob/snapshot-keras/site/en/guide/keras/rnn.ipynb?authuser=1#scrollTo=fb8de09c4343
+
+CNN CIFAR10 exercise: https://colab.research.google.com/drive/1RClhxJh30Qs5rt-sS3BznZvOuWeW5CPB?usp=sharing
 
 After class, I'll post a "solved" version in the Lecture 4 folder.
 
