@@ -8,8 +8,9 @@ Lecture notes will be updated periodically.
 
 Helpful resources for reading:
 
-- ``Deep Learning'' by Goodfellow, Bengio, Courville
-- ``Understanding Deep Learning'' by J.D. Prince
+- "Deep Learning" by Goodfellow, Bengio, Courville
+- "Understanding Deep Learning" by J.D. Prince
+- "Dive into Deep Learning" https://d2l.ai/d2l-en.pdf
 
   Andrew Ng's Coursera lectures on Deep learning are especially insightful: https://www.coursera.org/specializations/deep-learning
 
