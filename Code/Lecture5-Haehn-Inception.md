@@ -1,4 +1,4 @@
-While I was away at the APS March Meeting, Prof. Daniel Haehn from the CS Department provided a guest lecture, based on finetuning the Inception-v3 model on a cat/dog dataset:
+While I was away at the APS March Meeting, Prof. Daniel Haehn from the CS Department kindly gave a guest lecture, based on finetuning the Inception-v3 model on a cat/dog dataset (deployed with inference on the web!):
 
 Relevant links: 
 
