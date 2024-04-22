@@ -1,5 +1,7 @@
 (From a Pytorch demo) We'll use this Google Colab to implement DQN:
 https://colab.research.google.com/drive/1z4IBOlA2YR_mCohgUDnqxNIpVDOaPTR9?usp=sharing
+solution here: https://colab.research.google.com/drive/1JlNPU8uYMatTHQB6PtoBpEpM9u0AWnX1?usp=sharing
+
 
 From Google, RNN demo: https://colab.research.google.com/github/tensorflow/docs/blob/snapshot-keras/site/en/guide/keras/rnn.ipynb?authuser=1#scrollTo=fb8de09c4343
 
